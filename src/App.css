@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  
+}
+
+.container {
+  margin: 1em;
+}
+
+.body {
+  background-color: #282c34;
+  padding: 40px
+}
